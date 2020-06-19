@@ -1,0 +1,39 @@
+.white-key-pressed {
+    width:50px;
+    height:200px;
+    background-color:red;
+    border:1px solid green;
+    display: inline-block;
+    position: relative;
+}
+
+.white-key-unpressed {
+    width:50px;
+    height:200px;
+    background-color:white;
+    border:1px solid green;
+    display: inline-block;
+    position: relative;
+}
+
+.black-key-pressed {
+    width: 28px;
+    height: 120px;
+    background-color: red;
+    border:1px solid green;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    z-index: 10;
+}
+
+.black-key-unpressed {
+    width: 28px;
+    height: 120px;
+    background-color: black;
+    border:1px solid green;
+    position: absolute;
+    top: 0%;
+    left: 9.3%;
+    z-index: 10;
+}
