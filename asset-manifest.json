@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Piano-App/static/css/main.6e074f6d.chunk.css",
-    "main.js": "/Piano-App/static/js/main.948e0c5f.chunk.js",
-    "main.js.map": "/Piano-App/static/js/main.948e0c5f.chunk.js.map",
-    "runtime-main.js": "/Piano-App/static/js/runtime-main.2307e649.js",
-    "runtime-main.js.map": "/Piano-App/static/js/runtime-main.2307e649.js.map",
-    "static/js/2.e6d2266c.chunk.js": "/Piano-App/static/js/2.e6d2266c.chunk.js",
-    "static/js/2.e6d2266c.chunk.js.map": "/Piano-App/static/js/2.e6d2266c.chunk.js.map",
+    "main.css": "/Piano-App/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Piano-App/static/js/main.4077db69.chunk.js",
+    "main.js.map": "/Piano-App/static/js/main.4077db69.chunk.js.map",
+    "runtime-main.js": "/Piano-App/static/js/runtime-main.61bda520.js",
+    "runtime-main.js.map": "/Piano-App/static/js/runtime-main.61bda520.js.map",
+    "static/js/2.a51ad747.chunk.js": "/Piano-App/static/js/2.a51ad747.chunk.js",
+    "static/js/2.a51ad747.chunk.js.map": "/Piano-App/static/js/2.a51ad747.chunk.js.map",
     "index.html": "/Piano-App/index.html",
-    "precache-manifest.ea6903d83c80c15e8c5c92b453468900.js": "/Piano-App/precache-manifest.ea6903d83c80c15e8c5c92b453468900.js",
+    "precache-manifest.4a64250026f8d1e8477038f76a268a08.js": "/Piano-App/precache-manifest.4a64250026f8d1e8477038f76a268a08.js",
     "service-worker.js": "/Piano-App/service-worker.js",
-    "static/css/main.6e074f6d.chunk.css.map": "/Piano-App/static/css/main.6e074f6d.chunk.css.map",
-    "static/js/2.e6d2266c.chunk.js.LICENSE.txt": "/Piano-App/static/js/2.e6d2266c.chunk.js.LICENSE.txt"
+    "static/css/main.5f361e03.chunk.css.map": "/Piano-App/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/Piano-App/static/js/2.a51ad747.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Piano-App/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2307e649.js",
-    "static/js/2.e6d2266c.chunk.js",
-    "static/css/main.6e074f6d.chunk.css",
-    "static/js/main.948e0c5f.chunk.js"
+    "static/js/runtime-main.61bda520.js",
+    "static/js/2.a51ad747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4077db69.chunk.js"
   ]
 }
